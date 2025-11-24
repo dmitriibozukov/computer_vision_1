@@ -77,4 +77,4 @@
 ## Использованные источники
 
 1. Медианный фильтр - https://habr.com/ru/articles/935750/
-2. ChatGPT
+2. ChatGPT - https://chatgpt.com/
