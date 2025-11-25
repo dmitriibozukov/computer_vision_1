@@ -76,4 +76,4 @@
 
 ## Использованные источники
 
-1. ChatGPT - https://chatgpt.com/
+1. Медианный фильтр - https://www.pergam.ru/press/blogs/median-filters.htm?srsltid=afmboorzv9c9owo3eh4yhizntkwdo-wtzwfxgaw98mdfmkbyrl5lclhh
