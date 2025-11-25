@@ -77,3 +77,4 @@
 ## Использованные источники
 
 1. Медианный фильтр - https://www.pergam.ru/press/blogs/median-filters.htm?srsltid=afmboorzv9c9owo3eh4yhizntkwdo-wtzwfxgaw98mdfmkbyrl5lclhh
+2. ДВА МЕТОДА АДАПТИВНОЙ МЕДИАННОЙ ФИЛЬТРАЦИИ ИМПУЛЬСНОГО ШУМА НА ИЗОБРАЖЕНИЯХ - https://computeroptics.ru/KO/PDF/KO42-4/420415.pdf
