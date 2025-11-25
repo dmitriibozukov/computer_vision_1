@@ -39,8 +39,11 @@
 ## Результаты работы и тестирования
 
 ### Визуальные результаты
+<img width="1570" height="346" alt="1 (4)" src="https://github.com/user-attachments/assets/a71d9d60-e7b3-43ec-b8af-e1a1e1befc0f" />
+<img width="1570" height="346" alt="22" src="https://github.com/user-attachments/assets/f137d383-1904-42e8-8f61-4bf5a506b53f" />
+<img width="1570" height="346" alt="33" src="https://github.com/user-attachments/assets/ae1d56e8-2e56-4d80-859d-52606859540b" />
+<img width="1570" height="346" alt="44" src="https://github.com/user-attachments/assets/512a3c90-57be-45fe-bf45-a6caea7ccd0a" />
 
-( мб сюда сравнение добавить )
 
 **Наблюдения:**
 - Обе реализации дают идентичные визуальные результаты
